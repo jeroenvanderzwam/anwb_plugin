@@ -1,0 +1,6 @@
+,delay,description,distance,from,from_lat,from_lon,location,msgNr,reason,segEnd,segStart,start,startDate,stop,stopDate,to,to_lat,to_lon
+0,Nan,"Tussen De Lutte en de Duitse grens bij hectometerpaal 177,5.",Nan,De Lutte,52.30921,7.00698,A1 Hengelo richting Duitse grens,191567487,"bij hectometerpaal 177,5.",Duitse grens,Hengelo,Nan,Nan,Nan,Nan,de Duitse grens,52.31371,7.04339
+1,Nan,"Tussen Breukelen en Maarssen bij hectometerpaal 50,2.",Nan,Breukelen,52.17215,4.98751,A2 Amsterdam richting Utrecht,191558507,"bij hectometerpaal 50,2.",Utrecht,Amsterdam,Nan,Nan,Nan,Nan,Maarssen,52.11816,5.03346
+2,Nan,"Tussen Werkendam en Hank bij hectometerpaal 28,3.",Nan,Werkendam,51.80154,4.93162,A27 Gorinchem richting Breda,191568642,"bij hectometerpaal 28,3.",Breda,Gorinchem,Nan,Nan,Nan,Nan,Hank,51.73558,4.90803
+3,Nan,"Tussen Bergharen en Beuningen bij hectometerpaal 3,7.",Nan,Bergharen,51.81282,5.69662,A326 Ravenstein richting Nijmegen,191545087,"bij hectometerpaal 3,7.",Nijmegen,Ravenstein,Nan,Nan,Nan,Nan,Beuningen,51.82708,5.73787
+4,Nan,"Tussen Beuningen en Bergharen bij hectometerpaal 3,4.",Nan,Beuningen,51.82708,5.73787,A326 Nijmegen richting Ravenstein,191545382,"bij hectometerpaal 3,4.",Ravenstein,Nijmegen,Nan,Nan,Nan,Nan,Bergharen,51.81282,5.69662
